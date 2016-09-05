@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SOLUTIONScs
+Bundle-SymbolicName: SOLUTIONScs
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: SOLUTIONScs.jar,
+ Pranav/Desktop/internship/bootstarp/bootstrap-3.3.6
